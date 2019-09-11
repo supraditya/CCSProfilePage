@@ -17,30 +17,41 @@ p
 	margin-right: 50%;
 	color: white;
 }
+#logo
+{
+	height: 50px;
+}
 .me
 {
-	margin-left: 50%;
-	margin-right: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	height: 150px;
 	width: 250px;
 	transform: rotate(90deg);
-	border-bottom-left-radius: 50%;
-	border-top-right-radius: 50%;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: #FAA41B;
 
 }
 .rhs
 {
 	text-indent: 5em;
 }
+.subrhs
+{
+	text-indent: 6.35em;
+	font-size: 22px;
+}
 #info
 {
 	margin-left: auto;
 	margin-right: auto;
-}
-}
-.logo
-{
-	height: 50px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #FAA41B;
+	border-radius: 10px;
+	
 }
 .subcat
 {
