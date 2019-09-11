@@ -1,0 +1,49 @@
+body
+{
+	background-color: black;
+}
+td
+{
+	font-family: Calibri Light;
+	color: white;
+	font-size: 28px;
+	border-color: white;
+	font-style: italic;
+}
+p
+{
+	font-family: Calibri Light;
+	margin-left: 36%;
+	margin-right: 50%;
+	color: white;
+}
+.me
+{
+	margin-left: 50%;
+	margin-right: 50%;
+	height: 150px;
+	width: 250px;
+	transform: rotate(90deg);
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
+
+}
+.rhs
+{
+	text-indent: 5em;
+}
+#info
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+.logo
+{
+	height: 50px;
+}
+.subcat
+{
+	text-indent: 2.5em;
+	font-size: 22px;
+}
